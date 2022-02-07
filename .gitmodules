@@ -1,0 +1,6 @@
+[submodule "lib_nv"]
+	path = lib_nv
+	url = https://github.com/kaifastromai/lib_nv.git
+[submodule "nv_qt"]
+	path = nv_qt
+	url = https://github.com/kaifastromai/nv_qt.git
